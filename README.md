@@ -1,4 +1,4 @@
-# 🚀 Tech Stack Recommender — Decode Labs Internship Project 3
+# Tech Stack Recommender — Decode Labs Internship Project 3
 
 A content-based recommendation system that maps your skills to the most mathematically aligned tech career paths using **TF-IDF vectorization** and **Cosine Similarity**.
 
